@@ -10,8 +10,9 @@ This is a sample Android app that demonstrates how to request camera and microph
 ## Screenshots
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Bhavyansh03-tech/Onboarding_Screen/assets/96388594/e76effd4-d7e3-44c9-9945-4ae2f89adc23" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="https://github.com/Bhavyansh03-tech/Onboarding_Screen/assets/96388594/1802062a-0839-4714-8099-93b34da03060" alt="Second Screenshot" style="width: 200px; height: auto;">\
+    <img src="https://github.com/user-attachments/assets/dc177a68-dc12-4000-a0ae-a4e69e48c6d9" alt="First Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/d278ba6c-f707-448e-b587-aae659697858" alt="Second Screenshot" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/9466d7d5-0bbd-45cd-bdfc-6ece181e2bba" alt="Third Screenshot" style="width: 200px; height: auto;">
 </div>
 
 
